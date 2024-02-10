@@ -1,2 +1,2 @@
 team git branching assignment-- merging txt file
-**making edit**
+**editing file and committing changes in second branch**
